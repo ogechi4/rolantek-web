@@ -94,7 +94,12 @@ a.active, a:hover{
     display:block;
 
   }
-  
+  label.logo{
+    width: 150px;
+    height: auto;
+    margin: 0;
+    float: left;
+  }
   
   ul{
     position:fixed;

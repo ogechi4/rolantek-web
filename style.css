@@ -95,10 +95,11 @@ a.active, a:hover{
 
   }
   label.logo{
-    width: 150px;
+    width: 100px;
     height: auto;
     margin: 0;
     float: left;
+    display: block;
   }
   
   ul{
